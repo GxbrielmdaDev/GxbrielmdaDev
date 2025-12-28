@@ -51,7 +51,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=GabrielSntts.GabrielSntts&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=GxbrielmdaDev.GxbrielmdaDev&"  />
 </div>
 
 ###
